@@ -1,0 +1,8 @@
+a=input("type your name: ")
+b=a[0]
+c=a[-1]
+d=len(a)
+e=int(d)
+f=int(e/2)
+g=a[f]
+print(b+g+c)
